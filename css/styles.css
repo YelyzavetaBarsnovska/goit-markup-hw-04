@@ -312,8 +312,8 @@ ul {
   fill: #f4f4fd;
 }
 
-.team-social-icon:hover,
-.team-social-icon:focus {
+.team-link-icon:hover,
+.team-link-icon:focus {
   background-color: #404bbf;
 }
 
